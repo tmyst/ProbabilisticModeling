@@ -51,6 +51,7 @@
 + https://www.institutdesactuaires.com/global/gene/link.php?doc_id=5229&fg=1
 + https://mc-stan.org/workshops/dec2017/class-1.pdf
 + https://pdfs.semanticscholar.org/fd98/be103c683e5eb01a647e7e583c1b90c2af3f.pdf
++ http://www.bayes-pharma.org/bayes2014docs/Day1/Dejardin.pdf
 
 #### Others
 + https://mc-stan.org/events/stancon2019Cambridge/abstracts

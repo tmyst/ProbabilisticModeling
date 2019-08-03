@@ -92,6 +92,9 @@
 + [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/15_4S.pdf
 + [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/14_4T.pdf
 
+#### Visualization
++ https://rkabacoff.github.io/datavis/datavis.pdf
+
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
 + http://www.variancejournal.org/issues/12-02/variance12-02.pdf

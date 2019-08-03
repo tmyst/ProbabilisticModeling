@@ -88,10 +88,12 @@
 + https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf
 + https://link.springer.com/content/pdf/10.1186%2Fs12911-019-0801-4.pdf
 + https://www.nature.com/articles/s41598-018-24758-5.pdf
-+ [Thesis by a student]https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2018-2019/hazewinkel_master_thesis.pdf
-+ [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/15_4S.pdf
-+ [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/14_4T.pdf
++ [A Master Thesis](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2018-2019/hazewinkel_master_thesis.pdf)
++ [JP Log-Rank etc](http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/15_4S.pdf)
++ [JP Log-Rank etc](http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/14_4T.pdf)
 + http://user.math.uzh.ch/vorlesungen/sta121/hs18/web/2script_sta121.pdf
++ https://hbiostat.org/doc/bbr.pdf
++ [A master thesis](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2018-2019/2018_10_29_masterthesis_kantidakis.pdf)
 
 #### Visualization
 + https://rkabacoff.github.io/datavis/datavis.pdf

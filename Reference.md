@@ -94,6 +94,9 @@
 + http://user.math.uzh.ch/vorlesungen/sta121/hs18/web/2script_sta121.pdf
 + https://hbiostat.org/doc/bbr.pdf
 + [A master thesis](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2018-2019/2018_10_29_masterthesis_kantidakis.pdf)
++ [New Goodness of fit](https://r2018-rennes.sciencesconf.org/file/444507)
++ [Paper: From non-paying to premium](https://www.yokozunadata.com/research/PotentialPUPrediction.pdf)
++ [Moder style statistical modeling lecture note](http://user.math.uzh.ch/vorlesungen/sta121/hs18/web/2script_sta121.pdf)
 
 #### Visualization
 + https://rkabacoff.github.io/datavis/datavis.pdf

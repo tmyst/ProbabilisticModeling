@@ -86,6 +86,8 @@
 + https://warwick.ac.uk/fac/sci/statistics/crism/research/paper14-16/14-16w.pdf
 + http://erepository.uonbi.ac.ke/bitstream/handle/11295/97582/Mbuthia_Improved%20Cox%20Hazard%20Model%20for%20Loans%20and%20Advances%20Impairment.pdf?sequence=1&isAllowed=y
 
++ https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf
+
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
 + http://www.variancejournal.org/issues/12-02/variance12-02.pdf

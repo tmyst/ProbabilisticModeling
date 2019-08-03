@@ -85,8 +85,12 @@
 + https://pdfs.semanticscholar.org/4668/7c2e6bf6496cdc3f36d905698ed8d285f04d.pdf
 + https://warwick.ac.uk/fac/sci/statistics/crism/research/paper14-16/14-16w.pdf
 + http://erepository.uonbi.ac.ke/bitstream/handle/11295/97582/Mbuthia_Improved%20Cox%20Hazard%20Model%20for%20Loans%20and%20Advances%20Impairment.pdf?sequence=1&isAllowed=y
-
 + https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf
++ https://link.springer.com/content/pdf/10.1186%2Fs12911-019-0801-4.pdf
++ https://www.nature.com/articles/s41598-018-24758-5.pdf
++ [Thesis by a brilliant student]https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/statscience/2018-2019/hazewinkel_master_thesis.pdf
++ [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/15_4S.pdf
++ [JP][Log-Rank etc]http://www.cardio.med.tohoku.ac.jp/newmember/pdf/ms/14_4T.pdf
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

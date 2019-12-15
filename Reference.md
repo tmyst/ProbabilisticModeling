@@ -108,3 +108,7 @@
 + http://www.math.umd.edu/~slud/s470/BookChaps/01Book.pdf
 + https://ar.casact.org/wp-content/uploads/2018/11/AR_Nov-Dec_2018.pdf
 + https://www.casact.org/pubs/forum/18spforumv2/CompleteSpring2018Volume2.pdf
+
+#### Python 
++ https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/Lecture-MachineLearning.pdf
++ [MCMC Slide](https://www.fips.fi/slides/MCMC_lectures_2019_Laine.pdf)

@@ -122,3 +122,7 @@
 + [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 + [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 + [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
++ [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/)
++ [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
++ [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+

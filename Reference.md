@@ -112,3 +112,13 @@
 #### Python 
 + https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/Lecture-MachineLearning.pdf
 + [MCMC Slide](https://www.fips.fi/slides/MCMC_lectures_2019_Laine.pdf)
+
+#### R
++ [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
++ [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) 
++ [Data Science Live Book](https://livebook.datascienceheroes.com/)
++ [R Graphics Cook Book 2nd Edition](https://r-graphics.org/)
++ [Statistical Inference via Data Science](https://moderndive.com/)
++ [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
++ [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
++ [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)

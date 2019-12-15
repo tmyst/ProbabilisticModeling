@@ -115,6 +115,7 @@
 
 #### R
 + [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
++ [Statistical Rethinking brms](https://bookdown.org/connect/#/apps/1850/access)
 + [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) 
 + [Data Science Live Book](https://livebook.datascienceheroes.com/)
 + [R Graphics Cook Book 2nd Edition](https://r-graphics.org/)

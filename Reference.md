@@ -126,6 +126,13 @@
 + [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/ajkurz/DBDA_recoded/)
 + [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 + [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
++ [Statistical Rethinking Recoded](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
++ [How to Compare Two Groups with Robust Bayesian Estimation Using R, Stan and brms](https://vuorre.netlify.com/post/2017/01/02/how-to-compare-two-groups-with-robust-bayesian-estimation-using-r-stan-and-brms/)
++ [Contemporary statistical inference for infectious disease
+models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
++ [Bayes vs. the Invaders! Part Two: Abnormal Distributions](https://www.weirddatascience.net/2019/04/08/bayes-vs-the-invaders-part-two-abnormal-distributions/)
++ [Introduction to Bayesian Regression Modeling in R using rstanarm](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatisticalComputingSeries/bayes_reg_rstanarm.html)
++ [Predicting drug safety and communicating risk: benefits of a Bayesian approach](https://www.biorxiv.org/content/10.1101/193169v2.full)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)
@@ -137,3 +144,12 @@ Performing MCMC with 'Stan'](https://philarchive.org/archive/VUOBVL)
 + [Causal Inference and Interpretable
 Machine Learning for Personalised Medicine](https://edoc.unibas.ch/71348/1/MAIN.pdf)
 
+#### Horse 
++ [F1Stats – Correlations Between Qualifying, Grid and Race Classification](https://blog.ouseful.info/tag/f1stats/)
+
+#### Medical
++ [Contemporary statistical inference for infectious disease models using Stan](https://www.sciencedirect.com/science/article/pii/S1755436519300325)
++ [Mosquito feeding behavior and how it influences residual malaria transmission across Africa](https://www.pnas.org/content/116/30/15086)
++ [Extending Bayesian back-calculation to estimate age and time specific HIV incidence](https://link.springer.com/article/10.1007/s10985-019-09465-1)
++ [Population-wide analysis of differences in disease progression patterns in men and women](https://www.nature.com/articles/s41467-019-08475-9)
++ [Bayesian hierarchical spatial models: Implementing the Besag York Mollié model in stan](https://www.sciencedirect.com/science/article/pii/S1877584518301175)

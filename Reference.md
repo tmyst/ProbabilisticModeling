@@ -127,3 +127,13 @@
 + [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 + [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
 
+#### Causal Inference
++ [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)
++ [bayesvl: Visually Learning the Graphical
+Structure of Bayesian Networks and
+Performing MCMC with 'Stan'](https://philarchive.org/archive/VUOBVL)
++ [Static Analysis for Probabilistic Programs](https://arxiv.org/pdf/1909.05076.pdf)
++ [Validating Causal Inference Models via Influence Functions](http://proceedings.mlr.press/v97/alaa19a/alaa19a.pdf)
++ [Causal Inference and Interpretable
+Machine Learning for Personalised Medicine](https://edoc.unibas.ch/71348/1/MAIN.pdf)
+

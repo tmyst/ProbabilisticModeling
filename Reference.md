@@ -100,6 +100,17 @@
 
 #### Visualization
 + https://rkabacoff.github.io/datavis/datavis.pdf
++ https://flowingdata.com/
++ https://cfss.uchicago.edu/notes/intro-geospatial-viz/
++ http://michaelminn.net/tutorials/r-landsat/
++ http://www.rebeccabarter.com/blog/2019-08-05_base_r_to_tidyverse/
++ https://mode.com/blog/r-ggplot-extension-packages
++ https://www.r-graph-gallery.com/
++ https://www.ttested.com/
++ https://www.datanovia.com/en/blog/ggplot-examples-best-reference/
++ https://www.r-bloggers.com/tidyquant-0-3-0-ggplot2-enhancements-real-time-data-and-more-2/
++ https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/
+
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
@@ -153,3 +164,5 @@ Machine Learning for Personalised Medicine](https://edoc.unibas.ch/71348/1/MAIN.
 + [Extending Bayesian back-calculation to estimate age and time specific HIV incidence](https://link.springer.com/article/10.1007/s10985-019-09465-1)
 + [Population-wide analysis of differences in disease progression patterns in men and women](https://www.nature.com/articles/s41467-019-08475-9)
 + [Bayesian hierarchical spatial models: Implementing the Besag York Mollié model in stan](https://www.sciencedirect.com/science/article/pii/S1877584518301175)
++ [MH test tutorial 01](http://www.metafor-project.org/doku.php/tips:comp_mh_different_software)
++ [MH test intro](https://cran.r-project.org/web/packages/samplesizeCMH/vignettes/samplesizeCMH-introduction.html)

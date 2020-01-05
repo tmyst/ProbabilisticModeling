@@ -110,6 +110,11 @@
 + https://www.datanovia.com/en/blog/ggplot-examples-best-reference/
 + https://www.r-bloggers.com/tidyquant-0-3-0-ggplot2-enhancements-real-time-data-and-more-2/
 + https://rviews.rstudio.com/2019/09/19/intro-to-ggforce/
++ [New Approaches in Visualization of Categorical Data: R Package extracat](https://www.researchgate.net/publication/288158659_New_Approaches_in_Visualization_of_Categorical_Data_R_Package_extracat)
++ [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
++ [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
++ [How to Make High Quality Data Visualizations for Websites With R and ggplot2](https://minimaxir.com/2017/08/ggplot2-web/)
++ [Data Visualization In R With The ggvis Package](https://steemit.com/programming/@dkmathstats/data-visualization-in-r-with-the-ggvis-package)
 
 
 #### CAS/SOA/etc

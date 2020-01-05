@@ -138,6 +138,10 @@
 + [Visualization of proteomics data using R and Bioconductor](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.201400392)
 + [Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization)
 + [NEW R package that makes XGBoost interpretable](https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211)
++ [Color in R](https://www.rpubs.com/MRufino/colorr)
++ [How to Create Publication Quality Figures in R](https://www.jungjulie.com/post/3-create-pub-qual-figs/make-figs/)
++ [ggplot colors best tricks](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
++ [using ggstatsplot with the purrr package](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/purrr_examples.html)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

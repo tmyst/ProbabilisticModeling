@@ -133,6 +133,11 @@
 + [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
 + [Efficient Frontier Portfolio Optimisation in Python](https://towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f)
 + [From Data to Viz - PARALLEL COORDINATES PLOT](https://www.data-to-viz.com/graph/parallel.html)
++ [Enhancing ggplot2 plots with statistical analysis](https://pythonawesome.com/enhancing-ggplot2-plots-with-statistical-analysis/)
++ [Thinking Visually](https://m-clark.github.io/data-processing-and-visualization/thinking_vis.html)
++ [Visualization of proteomics data using R and Bioconductor](https://onlinelibrary.wiley.com/doi/full/10.1002/pmic.201400392)
++ [Factoextra R Package: Easy Multivariate Data Analyses and Elegant Visualization](http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization)
++ [NEW R package that makes XGBoost interpretable](https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

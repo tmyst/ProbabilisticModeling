@@ -115,7 +115,24 @@
 + [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 + [How to Make High Quality Data Visualizations for Websites With R and ggplot2](https://minimaxir.com/2017/08/ggplot2-web/)
 + [Data Visualization In R With The ggvis Package](https://steemit.com/programming/@dkmathstats/data-visualization-in-r-with-the-ggvis-package)
-
++ [An introduction to mgcViz: visual tools for GAMs](https://cran.r-project.org/web/packages/mgcViz/vignettes/mgcviz.html)
++ [9 Multivariate methods for heterogeneous data](https://www.huber.embl.de/msmb/Chap-MultivaHetero.html)
++ [Hazard ratio plots with non-linear & time-varying effects in R](https://discourse.datamethods.org/t/hazard-ratio-plots-with-non-linear-time-varying-effects-in-r/1123)
++ [Doing magic and analyzing seasonal time series with GAM (Generalized Additive Model) in R](https://www.r-bloggers.com/doing-magic-and-analyzing-seasonal-time-series-with-gam-generalized-additive-model-in-r/)
++ [Introducing PDPbox](https://towardsdatascience.com/introducing-pdpbox-2aa820afd312)
++ [Generalized Additive Models (GAMs)](http://gsp.humboldt.edu/OLM/R/05_03_GAM.html)
++ [Obtaining knowledge from a random forest](https://stats.stackexchange.com/questions/21152/obtaining-knowledge-from-a-random-forest)
++ [Interpreting partial dependence plots (marginal effects) using plotmo
+](https://stats.stackexchange.com/questions/329133/interpreting-partial-dependence-plots-marginal-effects-using-plotmo)
++ [Machine learning models in electronic health records can outperform conventional survival models for predicting patient mortality in coronary artery disease](https://www.researchgate.net/publication/322820799_Machine_learning_models_in_electronic_health_records_can_outperform_conventional_survival_models_for_predicting_patient_mortality_in_coronary_artery_disease)
++ [Quick Introduction to Partial Dependence Plots](http://rstudio-pubs-static.s3.amazonaws.com/283647_c3ab1ccee95a403ebe3d276599a85ab8.html)
++ [how to plot 3D partial dependence in GBM](https://stats.stackexchange.com/questions/197455/how-to-plot-3d-partial-dependence-in-gbm)
++ [Using Partial Dependence Plots in Machine Learning to Measure Feature Importance](https://briangriner.github.io/Partial_Dependence_Plots_presentation-BrianGriner-PrincetonPublicLibrary-4.14.18-updated-4.22.18.html)
++ [Quick-R Scatterplots](https://www.statmethods.net/graphs/scatterplot.html)
++ [JZY3D](http://www.jzy3d.org/index.php)
++ [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
++ [Efficient Frontier Portfolio Optimisation in Python](https://towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f)
++ [From Data to Viz - PARALLEL COORDINATES PLOT](https://www.data-to-viz.com/graph/parallel.html)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

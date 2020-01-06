@@ -176,6 +176,8 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Introduction to Bayesian Regression Modeling in R using rstanarm](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/StatisticalComputingSeries/bayes_reg_rstanarm.html)
 + [Predicting drug safety and communicating risk: benefits of a Bayesian approach](https://www.biorxiv.org/content/10.1101/193169v2.full)
 + [Exploratory analysis](https://www.storybench.org/how-to-explore-correlations-in-r/)
++ [Feature Engineering by M.Kuhn](https://bookdown.org/max/FES/)
++ [UMich DSPA Course](http://www.socr.umich.edu/people/dinov/2019/Fall/DSPA_HS650/)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

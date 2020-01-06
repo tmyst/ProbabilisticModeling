@@ -178,6 +178,11 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Exploratory analysis](https://www.storybench.org/how-to-explore-correlations-in-r/)
 + [Feature Engineering by M.Kuhn](https://bookdown.org/max/FES/)
 + [UMich DSPA Course](http://www.socr.umich.edu/people/dinov/2019/Fall/DSPA_HS650/)
++ [A blog](https://www.andrewheiss.com/)
++ [Data Science Live Book](https://livebook.datascienceheroes.com/)
++ [Machine Learning with rtemis](https://rtemis.netlify.com/index.html)
++ [Predictive Models](https://pbiecek.github.io/PM_VEE/)
++ [A Blog (time series, R)](https://petolau.github.io/)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

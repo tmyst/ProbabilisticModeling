@@ -147,6 +147,7 @@
 + [Interactive web-based data visualization with R, plotly, and shiny (Carson Sievert)](https://plotly-r.com/)
 + [Fundamentals of Data Visualization (Claus O. Wilke)](https://serialmentor.com/dataviz/)
 + [Data Visualization A practical introduction Kieran Healy](https://socviz.co/)
++ [From Data to Viz](https://www.data-to-viz.com/graph/parallel.html)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
@@ -189,6 +190,11 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Predictive Models](https://pbiecek.github.io/PM_VEE/)
 + [A Blog (time series, R)](https://petolau.github.io/)
 + [Introduction to Data Science Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/index.html)
++ [Michael Betancourt](https://betanalpha.github.io/writing/)
++ [Data Science for Psychologists (Hansjörg Neth)](https://bookdown.org/hneth/ds4psy/)
++ [Modern R with the tidyverse (Bruno Rodrigues)](https://b-rodrigues.github.io/modern_R/)
++ [Peter Laurinec Time series data mining in R. Bratislava, Slovakia.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
++ [Surrogates Gaussian process modeling, design and optimization for the applied sciences Robert B. Gramacy](https://bookdown.org/rbg/surrogates/)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

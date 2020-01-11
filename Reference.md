@@ -146,6 +146,7 @@
 + [Data Visualization in R (Brooke Anderson)](https://geanders.github.io/navy_public_health/)
 + [Interactive web-based data visualization with R, plotly, and shiny (Carson Sievert)](https://plotly-r.com/)
 + [Fundamentals of Data Visualization (Claus O. Wilke)](https://serialmentor.com/dataviz/)
++ [Data Visualization A practical introduction Kieran Healy](https://socviz.co/)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

@@ -151,6 +151,7 @@
 + [Interactive web-based data visualization with R, plotly, and shiny
 Carson Sievert](https://plotly-r.com/index.html)
 + [Data Processin and Visualization](https://m-clark.github.io/data-processing-and-visualization/)
++ [rud.is](https://rud.is/b/)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

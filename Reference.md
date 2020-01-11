@@ -148,6 +148,9 @@
 + [Fundamentals of Data Visualization (Claus O. Wilke)](https://serialmentor.com/dataviz/)
 + [Data Visualization A practical introduction Kieran Healy](https://socviz.co/)
 + [From Data to Viz](https://www.data-to-viz.com/graph/parallel.html)
++ [Interactive web-based data visualization with R, plotly, and shiny
+Carson Sievert](https://plotly-r.com/index.html)
++ [Data Processin and Visualization](https://m-clark.github.io/data-processing-and-visualization/)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
@@ -196,6 +199,9 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Peter Laurinec Time series data mining in R. Bratislava, Slovakia.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
 + [Surrogates Gaussian process modeling, design and optimization for the applied sciences Robert B. Gramacy](https://bookdown.org/rbg/surrogates/)
 + [Predictive Models: Explore, Explain, and Debug Human-Centered Interpretable Machine Learning](https://pbiecek.github.io/PM_VEE/)
++ [Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis (A Solomon Kurz)](https://bookdown.org/ajkurz/recoding_Hayes_2018/)
++ [Intuitive Data Science (Robert Barcik)](https://bookdown.org/barcikrobert/intuitive-ds-book4/)
++ [edav.info/ (Zach Bogart, Joyce Robbins)](https://edav.info/index.html)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

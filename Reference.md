@@ -142,6 +142,10 @@
 + [How to Create Publication Quality Figures in R](https://www.jungjulie.com/post/3-create-pub-qual-figs/make-figs/)
 + [ggplot colors best tricks](https://www.datanovia.com/en/blog/ggplot-colors-best-tricks-you-will-love/)
 + [using ggstatsplot with the purrr package](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/purrr_examples.html)
++ [Data Visualization with R (Rob Kabacoff)](https://rkabacoff.github.io/datavis/)
++ [Data Visualization in R (Brooke Anderson)](https://geanders.github.io/navy_public_health/)
++ [Interactive web-based data visualization with R, plotly, and shiny (Carson Sievert)](https://plotly-r.com/)
++ [Fundamentals of Data Visualization (Claus O. Wilke)](https://serialmentor.com/dataviz/)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf
@@ -183,6 +187,7 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Machine Learning with rtemis](https://rtemis.netlify.com/index.html)
 + [Predictive Models](https://pbiecek.github.io/PM_VEE/)
 + [A Blog (time series, R)](https://petolau.github.io/)
++ [Introduction to Data Science Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/index.html)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

@@ -195,6 +195,7 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Modern R with the tidyverse (Bruno Rodrigues)](https://b-rodrigues.github.io/modern_R/)
 + [Peter Laurinec Time series data mining in R. Bratislava, Slovakia.](https://petolau.github.io/Dangerous-streets-of-Bratislava-animated-maps-using-opendata/)
 + [Surrogates Gaussian process modeling, design and optimization for the applied sciences Robert B. Gramacy](https://bookdown.org/rbg/surrogates/)
++ [Predictive Models: Explore, Explain, and Debug Human-Centered Interpretable Machine Learning](https://pbiecek.github.io/PM_VEE/)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

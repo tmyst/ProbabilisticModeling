@@ -153,6 +153,7 @@ Carson Sievert](https://plotly-r.com/index.html)
 + [Data Processin and Visualization](https://m-clark.github.io/data-processing-and-visualization/)
 + [rud.is](https://rud.is/b/)
 + [A blog](https://www.shanelynn.ie/themes-and-colours-for-r-ggplots-with-ggthemr/)
++ [ggally tips](https://www.thinkingondata.com/how-to-show-correlations-between-variables/)
 
 #### CAS/SOA/etc
 + http://www.variancejournal.org/issues/12-01/variance12-01.pdf

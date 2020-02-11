@@ -205,6 +205,23 @@ models using Stan](https://arxiv.org/pdf/1903.00423.pdf)
 + [Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis (A Solomon Kurz)](https://bookdown.org/ajkurz/recoding_Hayes_2018/)
 + [Intuitive Data Science (Robert Barcik)](https://bookdown.org/barcikrobert/intuitive-ds-book4/)
 + [edav.info/ (Zach Bogart, Joyce Robbins)](https://edav.info/index.html)
++ [mgcViz](https://cran.r-project.org/web/packages/mgcViz/vignettes/mgcviz.html)
+
+#### GAM
++ [Flexible Regression and Smoothing
+The GAMLSS packages in R](http://www.gamlss.com/wp-content/uploads/2015/07/FlexibleRegressionAndSmoothingDraft-1.pdf)
++ [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts/students/resources-1819/)
++ [Lecture notes on Flexible regression](https://warwick.ac.uk/fac/sci/statistics/apts/students/resources-1819/flexible_regression_notes.pdf)
++ [Flexible Regression and Smoothing: Using GAMLSS in R](http://www.stat.tugraz.at/friedl/GAMLSS/Gamlss-Introduction.pdf)
++ [Applied Multivariate Statistics with R](https://web.uniroma1.it/memotef/sites/default/files/file%20lezioni/102b_textbook.pdf)
++ [Hierarchical generalized additive models in ecology: an introduction with mgcv](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/17800/Pedersen_2019_PeerJ_mgcv_CC.pdf?sequence=1&isAllowed=y)
++ [Machine Learning Interpretability Techniques in Credit Risk Modeling](https://www.moodysanalytics.com/-/media/presentation/2019/mas-t1d1-transparent-and-interpretable-ml-in-risk-modeling.pdf)
++ [edgeR: differential expression analysis of digital gene expression data](https://www.bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
++ [bamlss: A Lego Toolbox for Flexible Bayesian Regression (and Beyond)](https://arxiv.org/pdf/1909.11784.pdf)
++ [gamlss.org](https://www.gamlss.com/)
++ [mgcv: GAMs in R](https://people.maths.bris.ac.uk/~sw15190/mgcv/tampere/mgcv.pdf)
++ [The VGAM package for R](https://www.stat.auckland.ac.nz/~yee/VGAM/)
++ [R for Statistical Learning](https://daviddalpiaz.github.io/r4sl/r4sl.pdf)
 
 #### Causal Inference
 + [On Multi-Cause Approaches to Causal Inference with Unobserved Counfounding: Two Cautionary Failure Cases and A Promising Alternative](http://proceedings.mlr.press/v89/d-amour19a.html)

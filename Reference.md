@@ -244,3 +244,4 @@ Machine Learning for Personalised Medicine](https://edoc.unibas.ch/71348/1/MAIN.
 + [Bayesian hierarchical spatial models: Implementing the Besag York Mollié model in stan](https://www.sciencedirect.com/science/article/pii/S1877584518301175)
 + [MH test tutorial 01](http://www.metafor-project.org/doku.php/tips:comp_mh_different_software)
 + [MH test intro](https://cran.r-project.org/web/packages/samplesizeCMH/vignettes/samplesizeCMH-introduction.html)
++ [Two part model applied to medical expense prediction](http://www.jarip.org/publication/jarip_jounal/pdf/Journal_v10n1_021.pdf)

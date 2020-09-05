@@ -118,6 +118,16 @@
 + [Confidence score for survival model](https://discourse.datamethods.org/t/confidence-score-for-survival-model/848)
 + [rms](http://hbiostat.org/doc/rms.pdf)
 + [bbr](http://hbiostat.org/doc/bbr.pdf)
++ [BOOTSTRAP INFERENCE WHEN USING MULTIPLE IMPUTATION](https://arxiv.org/pdf/1602.07933.pdf)
++ [Combining bootstrapping with multiple imputation](https://thestatsgeek.com/2016/03/12/combining-bootstrapping-with-multiple-imputation/)
++ [BootImpute](https://cran.r-project.org/web/packages/bootImpute/index.html)
++ [Bootstrap Inference for Multiple Imputation under Uncongeniality and Misspecification](https://arxiv.org/abs/1911.09980)
++ [Hazard Regression](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat02140)
++ [Flexible Methods for Analyzing Survival Data Using Splines, With Applications to Breast Cancer Prognosis](https://www.jstor.org/stable/2290630?seq=1#page_scan_tab_contents)
++ [Prediction of Progression-Free Survival in Patients With Advanced, Well-Differentiated, Neuroendocrine Tumors Being Treated With a Somatostatin Analog: The GETNE-TRASGU Study](https://ascopubs.org/doi/full/10.1200/JCO.19.00980)
++ [Flexsurv](https://cran.r-project.org/web/packages/flexsurv/vignettes/flexsurv-examples.pdf)
++ [pammtools](https://adibender.github.io/pammtools/index.html)
++ [pammtools(vignette)](https://arxiv.org/pdf/1806.01042.pdf)
 
 #### Visualization
 + https://rkabacoff.github.io/datavis/datavis.pdf

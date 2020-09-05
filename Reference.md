@@ -97,6 +97,27 @@
 + [New Goodness of fit](https://r2018-rennes.sciencesconf.org/file/444507)
 + [Paper: From non-paying to premium](https://www.yokozunadata.com/research/PotentialPUPrediction.pdf)
 + [Moder style statistical modeling lecture note](http://user.math.uzh.ch/vorlesungen/sta121/hs18/web/2script_sta121.pdf)
++ [Estimating Joint Models for Longitudinal and Time-to-Event Data with rstanarm](https://mran.microsoft.com/snapshot/2018-01-30/web/packages/rstanarm/vignettes/jm.html)
++ [Joint longitudinal and time-to-event models via Stan](https://www.sambrilleman.com/pdf/conference/2018_StanCon_notebook.pdf)
++ [Estimating Joint Models for Longitudinal and Time-to-Event Data with rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html)
++ [Extension of the association structure in joint models to include weighted cumulative effects](http://www.drizopoulos.com/pdf/papers/SiM_wGumEffects_paper.pdf)
++ [Joint modeling of repeated ordinal measures and time to event data for CHD risk assessment](https://medcraveonline.com/BBIJ/BBIJ-08-00290.pdf)
++ [Joint modeling of multivariate longitudinal data and survival data in several observational studies of Huntington’s disease](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0592-9)
++ [joineRML: a joint model and software package for time-to-event and multivariate longitudinal outcomes](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0502-1)
++ [An Introduction to Mixed Models and Joint Modeling: Analysis of Valve Function Over Time](https://www.annalsthoracicsurgery.org/article/S0003-4975(12)00409-2/pdf)
++ [Joint models with multiple longitudinal outcomes and a time-to-event outcome: a corrected two-stage approach](https://link.springer.com/article/10.1007/s11222-020-09927-9)
++ [A Trial of Itraconazole or Amphotericin B for HIV-Associated Talaromycosis](https://www.nejm.org/doi/full/10.1056/NEJMoa1613306)
+
+#### Statistical Modeling 
++ [Avoiding pitfalls when combining multiple imputation and propensity scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6856837/)
++ [A comparison of model selection methods for prediction in the presence of multiply imputed data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6492211/)
++ [Regression Modeling Strategies Short Course 2020](https://hbiostat.org/doc/rms/4day.html)
++ [Hazard ratio plots with non-linear & time-varying effects in R](https://discourse.datamethods.org/t/hazard-ratio-plots-with-non-linear-time-varying-effects-in-r/1123)
++ [Interpreting and visualizing a Cox model for prognostic factors](https://discourse.datamethods.org/t/interpreting-and-visualizing-a-cox-model-for-prognostic-factors/2305)
++ [Propensity score matching with missing data](https://discourse.datamethods.org/t/propensity-score-matching-with-missing-data/1750)
++ [Confidence score for survival model](https://discourse.datamethods.org/t/confidence-score-for-survival-model/848)
++ [rms](http://hbiostat.org/doc/rms.pdf)
++ [bbr](http://hbiostat.org/doc/bbr.pdf)
 
 #### Visualization
 + https://rkabacoff.github.io/datavis/datavis.pdf
